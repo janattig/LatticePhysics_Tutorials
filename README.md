@@ -4,6 +4,31 @@ Tutorials and Examples for the julia module [`LatticePhysics.jl`](https://github
 The tutorials are presented in the form of `IJulia` notebooks, therefore the `IJulia` package is mandatory to install.
 
 
+## How to use `IJulia` notebooks
+
+After installing all modules (i.e. [`LatticePhysics.jl`](https://github.com/janattig/LatticePhysics.jl), linked plotting libraries as well as `IJulia` and `PyPlot`), one can clone this repository into a local directory and navigate a julia REPL there. Then, use
+```julia-REPL
+julia> using IJulia
+julia> notebook(dir="")
+```
+to open a new julia notebook in the browser within the current directory. Navigate to the tutorial file of your choice within jupyter
+and open the tutorial there as well.
+
+
+
+## Table of Contents
+
+1.  **Introduction** -- first tutorial and introduction to general workflow of `LatticePhysics.jl`
+2.  **Basics** -- covers most of the basic types of `LatticePhysics.jl`
+    1. _Unitcells_
+    2. _Lattices_
+    3. _Reciprocal space_
+3.  **Plotting (in PyPlot)** -- covers plotting aspects of `LatticePhysics.jl` by using PyPlot
+    1. _Lattices_
+    2. _Reciprocal space_
+
+
+
 
 ## Basic Workflow of `LatticePhysics.jl`
 
@@ -15,14 +40,3 @@ The main workflow of `LatticePhysics.jl` can be captured in three main steps
     - Monte Carlo
     - Luttinger Tisza analysis
     - ...
-
-
-## Table of Contents
-
-1.  **Basics** -- covers most of the basic types of `LatticePhysics.jl`
-    1. _Unitcells_
-    2. _Lattices_
-    3. _Reciprocal space_
-2.  **Plotting (in PyPlot)** -- covers plotting aspects of `LatticePhysics.jl` by using PyPlot
-    1. _Lattices_
-    2. _Reciprocal space_
