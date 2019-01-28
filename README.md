@@ -5,8 +5,19 @@ The tutorials are presented in the form of `IJulia` notebooks, therefore the `IJ
 
 
 
+## Basic Workflow of `LatticePhysics.jl`
 
-# Table of Contents
+The main workflow of `LatticePhysics.jl` can be captured in three main steps
+1.  Create (and modify) a `Unitcell` object
+2.  Create (and modify) a `Lattice` object out of the `Unitcell` object
+3.  Use either of those two objects for a variety of applications:
+    - plotting
+    - Monte Carlo
+    - Luttinger Tisza analysis
+    - ...
+
+
+## Table of Contents
 
 1.  _Basics_ -- covers most of the basic types of `LatticePhysics.jl`
     1. _Unitcells_
