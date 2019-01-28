@@ -18,7 +18,7 @@ and open the tutorial there as well.
 
 ## Table of Contents
 
-1.  **Introduction** -- first tutorial and introduction to general workflow of `LatticePhysics.jl`
+1.  **Introduction** -- first tutorial and introduction to general workflow of `LatticePhysics.jl` [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/introduction/introduction.ipynb)]
 2.  **Basics** -- covers most of the basic types of `LatticePhysics.jl`
     1. _Unitcells_
     2. _Lattices_
