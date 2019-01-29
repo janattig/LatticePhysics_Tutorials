@@ -19,13 +19,13 @@ and open the tutorial there as well.
 ## Table of Contents
 
 1.  **Introduction** -- first tutorial and introduction to general workflow of `LatticePhysics.jl` [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/introduction/introduction.ipynb)]
-1.  **Basics** -- covers most of the basic types of `LatticePhysics.jl`
-    2. _Sites_ and _Bonds_
-        -  site type hierachy and interface [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/sites_bonds/site_type_interface.ipynb)]
+2.  **Basics** -- covers most of the basic types of `LatticePhysics.jl`
+    1. _Sites_ and _Bonds_
+        -  site type hierachy and interface [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/sites_bonds/site_type_interface.ipynb)]
     2. _Unitcells_
-    2. _Lattices_
-    2. _Reciprocal space_
-1.  **Plotting (in PyPlot)** -- covers plotting aspects of `LatticePhysics.jl` by using PyPlot
+    3. _Lattices_
+    4. _Reciprocal space_
+3.  **Plotting (in PyPlot)** -- covers plotting aspects of `LatticePhysics.jl` by using PyPlot
     2. _Lattices_
     2. _Reciprocal space_
 
