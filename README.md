@@ -22,6 +22,7 @@ and open the tutorial there as well.
 2.  **Basics** -- covers most of the basic types of `LatticePhysics.jl`
     1. _Sites_ and _Bonds_
         -  site type hierachy and interface [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/sites_bonds/site_type_interface.ipynb)]
+        -  bond type hierachy and interface [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/sites_bonds/bond_type_interface.ipynb)]
     2. _Unitcells_
     3. _Lattices_
     4. _Reciprocal space_
