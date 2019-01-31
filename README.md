@@ -29,7 +29,7 @@ and open the tutorial there as well.
     3. _Lattices_
     4. _Reciprocal space_
 3.  **Plotting (in PyPlot)** -- covers plotting aspects of `LatticePhysics.jl` by using PyPlot
-    2. _Lattices_
+    1. _Lattices_
     2. _Reciprocal space_
 
 
