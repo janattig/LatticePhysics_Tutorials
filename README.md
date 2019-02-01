@@ -29,6 +29,7 @@ and open the tutorial there as well.
     2. _Unitcells_
         -  unitcell types and interface [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/unitcells/unitcell_type_interface.ipynb)]
         -  how to access pre-implemented unitcells [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/unitcells/pre-implemented_unitcells.ipynb)]
+        -  unitcell dispatch examples [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/unitcells/unitcell_dispatch.ipynb)]
     3. _Lattices_
     4. _Reciprocal space_
 3.  **Plotting (in PyPlot)**
