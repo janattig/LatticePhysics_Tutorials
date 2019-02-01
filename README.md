@@ -20,7 +20,7 @@ and open the tutorial there as well.
 
 1.  **Introduction**
     - first tutorial and introduction to general workflow of `LatticePhysics.jl` [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/introduction/introduction.ipynb)]
-2.  **Basics**
+2.  **Basic Types**
     1. _Sites_ and _Bonds_
         -  site types and interface [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/sites_bonds/site_type_interface.ipynb)]
         -  site dispatch examples [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/sites_bonds/site_dispatch.ipynb)]
@@ -31,10 +31,25 @@ and open the tutorial there as well.
         -  how to access pre-implemented unitcells [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/unitcells/pre-implemented_unitcells.ipynb)]
         -  unitcell dispatch examples [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/unitcells/unitcell_dispatch.ipynb)]
     3. _Lattices_
+        -  lattice types and interface [TODO]
+        -  pre-implemented lattice building from unitcells [TODO]
+        -  lattice dispatch examples [TODO]
+        -  lattice tips and tricks [TODO] (accessing organized bonds, ...)
     4. _Reciprocal space_
+        -  reciprocal point type and interface [TODO]
+        -  reciprocal path type and interface [TODO]
+        -  building reciprocal paths [TODO]
+        -  reciprocal unitcell type and interface [TODO]
+        -  Brillouin zone type and interface [TODO]
+        -  building Brillouin zones [TODO]
 3.  **Plotting (in PyPlot)**
     1. _Lattices_
+        -  plotting lattices in 2D [TODO]
+        -  plotting lattices in 3D [TODO]
+        -  plotting tips and tricks [TODO] (site colors, faster plots, ...)
     2. _Reciprocal space_
+        -  plotting Brillouin zones [TODO]
+        -  plotting reciprocal paths [TODO]
 
 
 
