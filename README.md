@@ -51,6 +51,16 @@ and open the tutorial there as well.
     2. _Reciprocal space_
         -  plotting Brillouin zones [TODO]
         -  plotting reciprocal paths [TODO]
+4.  **Luttinger Tisza calculations**
+    1. _Introduction_ [TODO]
+    2. _Hamiltonians_
+        - bond hamiltonian type and interface [TODO]
+        - bond hamiltonian dispatch examples [TODO]
+        - how to engineer your own hamiltonain [TODO]
+    3. _Luttinger Tisza ground states_
+        - calculating Luttinger Tisza ground states [TODO]
+    4. _Plotting of Luttinger Tisza ground states_
+        - plotting Luttinger Tisza ground states [TODO]
 
 
 
