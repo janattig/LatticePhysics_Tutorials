@@ -24,6 +24,7 @@ and open the tutorial there as well.
         -  site types and interface [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/sites_bonds/site_type_interface.ipynb)]
         -  site dispatch examples [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/sites_bonds/site_dispatch.ipynb)]
         -  bond types and interface [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/sites_bonds/bond_type_interface.ipynb)]
+        -  bond dispatch examples [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/sites_bonds/bond_dispatch.ipynb)]
     2. _Unitcells_
         -  unitcell types and interface [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/unitcells/unitcell_type_interface.ipynb)]
         -  how to access pre-implemented unitcells [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/unitcells/pre-implemented_unitcells.ipynb)]
