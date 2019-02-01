@@ -44,7 +44,7 @@ and open the tutorial there as well.
         -  building Brillouin zones [TODO]
 3.  **Plotting (in PyPlot)**
     1. _Lattices_
-        -  introduction to plotting of lattices [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/plotting/lattices/plotting_lattice_introduction.ipynb)]
+        -  introduction to plotting of lattices [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/plotting_PyPlot/lattices/plotting_lattice_introduction.ipynb)]
         -  plotting lattices in 2D [TODO]
         -  plotting lattices in 3D [TODO]
         -  plotting tips and tricks [TODO] (site colors, faster plots, ...)
