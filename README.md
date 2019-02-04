@@ -32,9 +32,9 @@ and open the tutorial there as well.
         -  how to extend pre-implemented unitcells and define your own [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/unitcells/implementing_new_unitcells.ipynb)]
         -  unitcell dispatch examples [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/unitcells/unitcell_dispatch.ipynb)]
     3. _Lattices_
-        -  lattice types and interface [TODO]
-        -  pre-implemented lattice building from unitcells [TODO]
-        -  lattice dispatch examples [TODO]
+        -  lattice types and interface [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/lattices/lattice_type_interface.ipynb)]
+        -  pre-implemented lattice building from unitcells [[TODO](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/lattices/lattice_building.ipynb)]
+        -  lattice dispatch examples [[TODO](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/lattices/lattice_dispatch.ipynb)]
         -  lattice tips and tricks [TODO] (accessing organized bonds, ...)
     4. _Reciprocal space_
         -  reciprocal point type and interface [TODO]
