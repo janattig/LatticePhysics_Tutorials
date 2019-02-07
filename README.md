@@ -34,10 +34,12 @@ and open the tutorial there as well.
     3. _Lattices_
         -  lattice types and interface [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/lattices/lattice_type_interface.ipynb)]
         -  pre-implemented lattice building from unitcells [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/lattices/lattice_building.ipynb)]
-        -  lattice dispatch examples [[TODO](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/lattices/lattice_dispatch.ipynb)]
+        -  lattice dispatch examples [[notebook](https://github.com/janattig/LatticePhysics_Tutorials/blob/master/basics/lattices/lattice_dispatch.ipynb)]
+        -  lattice editing [TODO] (adding / removing sites, ...)
         -  lattice tips and tricks [TODO] (accessing organized bonds, ...)
     4. _Reciprocal space_
         -  reciprocal point type and interface [TODO]
+        -  default implementations of reciprocal points [TODO]
         -  reciprocal path type and interface [TODO]
         -  building reciprocal paths [TODO]
         -  reciprocal unitcell type and interface [TODO]
